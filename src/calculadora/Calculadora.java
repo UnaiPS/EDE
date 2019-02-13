@@ -1,5 +1,5 @@
 package calculadora;
-//cambio
+//cambio2
 public class Calculadora {
 
 	private int num1;
