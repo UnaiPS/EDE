@@ -25,6 +25,7 @@ public class Calculadora {
 	public int multiplica ()
 	{
 		int result=num1*num2;
+		System.out.println("Cosa");
 		return result;
 	}
 	public int divide ()
